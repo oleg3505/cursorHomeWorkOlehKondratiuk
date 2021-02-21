@@ -15,8 +15,7 @@ console.log(allPriceRoundTo);
 let priceBool;
 if (Math.floor(allPrice)%2 == 1){
     priceBool = false
-}
-else {
+} else {
     priceBool = true
 }
 console.log(priceBool);
