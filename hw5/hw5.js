@@ -31,7 +31,7 @@ function getAverage(...arrayForFunctionGetAverage){
     
      
 }
-    const average = sumOfArray/j; 
+    const average = Math.round((sumOfArray/j)*100)/100; 
     return average;
 }
 const average = getAverage(...arrayForFunctionGetAverage);
