@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-image:url(background.jpg) ;
+        }
+        .block {
+                     
+            background-color: rgb(37, 99, 21);
+            text-align:center;
+            text-decoration: unset;
+            height: 100px;
+            width: 180px;
+        }
+        .blocks{
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            display: flex;
+            align-items: center;
+            align-content: center; 
+            justify-content: center; 
+            gap: 30px;
+        }
+        .key{
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="blocks">
+        <div id="KeyA" class="block">
+            <div class="key">A</div>
+            <audio class="KeyA"  src="audioA.mp3" ></audio>
+            <p>Some sound</p>
+        </div>
+        <div id="KeyS" class="block">
+            <div class="key">S</div>
+            <audio class="KeyS"  src="audioS.mp3" ></audio>
+            <p>Some sound</p>
+        </div>
+        <div id="KeyD" class="block">
+            <div class="key">D</div>
+            <audio class="KeyD"  src="audioD.mp3" ></audio>
+            <p>Some sound</p>
+        </div>
+        <div id="KeyF" class="block">
+            <div class="key">F</div>
+            <audio class="KeyF"  src="audioF.mp3" ></audio>
+            <p>Some sound</p>
+        </div>
+        <div id="KeyG" class="block">
+            <div class="key">G</div>
+            <audio class="KeyG"  src="audioG.mp3" ></audio>
+            <p>Some sound</p>
+        </div>
+        
+    </div>
+    
+    <script src="hw11.js"></script>
+</body>
+</html>
