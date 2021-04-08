@@ -9,9 +9,9 @@ document.onkeypress = function(event){
     }, 1*1000);
     const audio = document.querySelector(`.${k}`);
     audio.play()
-    setTimeout(() => {
-        audio.pause()
-    }, 1*1000);
+    // setTimeout(() => {
+    //     audio.pause()
+    // }, 1*1000);
     
 }
 const elements = ['A', 'S', 'D', 'F', 'G'];
@@ -25,9 +25,9 @@ elements.forEach(letter =>{
             element.removeAttribute('style', `background-color: green; border: 4px solid yellow; `)
         }, 1*1000);
         audio.play()
-        setTimeout(() => {
-            audio.pause()
-        }, 1*1000);
+        // setTimeout(() => {
+        //     audio.pause()
+        // }, 1.2*1000);
     }
 
     
