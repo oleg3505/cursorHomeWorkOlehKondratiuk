@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cursorHomeWorkOlehKondratiuk/static/css/main.e6606eb6.chunk.css",
+    "main.js": "/cursorHomeWorkOlehKondratiuk/static/js/main.e6fbd46b.chunk.js",
+    "main.js.map": "/cursorHomeWorkOlehKondratiuk/static/js/main.e6fbd46b.chunk.js.map",
+    "runtime-main.js": "/cursorHomeWorkOlehKondratiuk/static/js/runtime-main.ed4ec926.js",
+    "runtime-main.js.map": "/cursorHomeWorkOlehKondratiuk/static/js/runtime-main.ed4ec926.js.map",
+    "static/js/2.eb59abf6.chunk.js": "/cursorHomeWorkOlehKondratiuk/static/js/2.eb59abf6.chunk.js",
+    "static/js/2.eb59abf6.chunk.js.map": "/cursorHomeWorkOlehKondratiuk/static/js/2.eb59abf6.chunk.js.map",
+    "index.html": "/cursorHomeWorkOlehKondratiuk/index.html",
+    "static/css/main.e6606eb6.chunk.css.map": "/cursorHomeWorkOlehKondratiuk/static/css/main.e6606eb6.chunk.css.map",
+    "static/js/2.eb59abf6.chunk.js.LICENSE.txt": "/cursorHomeWorkOlehKondratiuk/static/js/2.eb59abf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed4ec926.js",
+    "static/js/2.eb59abf6.chunk.js",
+    "static/css/main.e6606eb6.chunk.css",
+    "static/js/main.e6fbd46b.chunk.js"
+  ]
+}
